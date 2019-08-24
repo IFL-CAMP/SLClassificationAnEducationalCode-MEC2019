@@ -1,3 +1,4 @@
 # Skin Lesion Classification - An Educational Guide
 
-Blog Link: https://medium.com/@SohamMazumder/2a043a1beb59
+This notebook was prepared for (MICCAI Educational Challenge 2019)[https://miccai-sb.github.io/challenge.html].
+Link to the blog : https://medium.com/@SohamMazumder/2a043a1beb59
