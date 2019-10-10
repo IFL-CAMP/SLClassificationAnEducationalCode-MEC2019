@@ -1,0 +1,12 @@
+jupyter
+ipython
+matplotlib
+numpy
+scikit-learn
+torch
+torchvision
+pandas
+imageio
+seaborn
+glob
+scipy
