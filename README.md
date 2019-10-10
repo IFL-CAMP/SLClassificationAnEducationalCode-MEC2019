@@ -18,19 +18,19 @@ Link to the blog : https://medium.com/miccai-educational-initiative/skin-cancer-
 
 # Getting Started
 Clone this repository to your system.
-'''
+```
 git clone https://github.com/IFL-CAMP/SLClassificationAnEducationalCode-MEC2019.git
 cd SLClassificationAnEducationalCode-MEC2019
-'''
+```
 
 If you don't have the dependencies installed, run:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Launch jupyter in the command line.
-'''
+```
 jupyter notebook
-'''
+```
 
 Go through the entire notebook by running each cells sequentially.
