@@ -14,6 +14,7 @@ Link to the blog : https://medium.com/miccai-educational-initiative/skin-cancer-
 - pandas
 - imageio
 - seaborn
+- glob3
 - scipy
 
 # Getting Started
