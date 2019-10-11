@@ -22,6 +22,8 @@ Clone this repository to your system.
 git clone https://github.com/IFL-CAMP/SLClassificationAnEducationalCode-MEC2019.git
 cd SLClassificationAnEducationalCode-MEC2019
 ```
+It's best if you install a virtual environment for python3 so you don't run into dependency problems(optional):
+https://docs.conda.io/en/latest/miniconda.html
 
 If you don't have the dependencies installed, run:
 ```
